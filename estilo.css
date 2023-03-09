@@ -1,0 +1,108 @@
+/* Estilos para el cuerpo del documento */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+  }
+  
+  /* Estilos para el encabezado */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Estilos para el contenido */
+  main {
+    margin: 20px;
+  }
+  
+  /* Estilos para los títulos */
+  h1, h2, h3 {
+    font-weight: normal;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  h3 {
+    font-size: 18px;
+  }
+  
+  /* Estilos para la lista de datos personales */
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para los botones de mostrar/ocultar */
+  button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  /* Estilos para los cuadros de experiencia y contacto */
+  #experience, #contact {
+    border: 1px solid #333;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+
+  /*  Estilos de letras */
+  body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+
+  /* Tamaño de Pagina web */
+
+  body {
+    width: 100%;
+    height: 100%;
+  }
+  
+  nav ul {
+    background-color: #333;
+  }
+  
+  nav a {
+    color: white;
+  }
+  
+/* Estilos para el encabezado */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  /* Estilos para el título */
+  h1 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para la imagen */
+  header img {
+    max-width: 100px;
+    margin-right: 20px;
+  }
+  
